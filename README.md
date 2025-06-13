@@ -1,6 +1,4 @@
-## Seeding the Database
+## API Development for Listings and Bookings in Django
 
-To populate the database with sample listings:
+More into APIs
 
-```bash
-python manage.py seed
